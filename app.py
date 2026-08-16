@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+st.image("IMG_5515.jpeg")
 # 1. Cấu hình trang
 st.set_page_config(
     page_title="Quản lý Thông tin Khách hàng",
